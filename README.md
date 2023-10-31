@@ -18,8 +18,7 @@ I'm Miguel Rodrigues, a .NET developer at [DeptAgency](https://www.deptagency.co
 
 <div>
   <a href="">
-  <img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=lmiguelmr&include_all_commits=true&count_private=true&show_icons=true&theme=dark">
-  <img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmiguelmr&&langs_count=16&layout=compact&theme=dark">
+  <img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=lmiguelmr&include_all_commits=true&count_private=true&show_icons=true&theme=default">
 </div>
     
 ## Contact Me
