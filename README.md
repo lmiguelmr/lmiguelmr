@@ -1,7 +1,7 @@
-# Hello, I'm [Your Name]
+# Hello, I'm Miguel Rodrigues
 
 ## About Me
-I'm a passionate .NET developer with experience in a wide range of technologies. I work at [DeptAgency](https://www.deptagency.com/) and have a strong background in developing software solutions. I enjoy building high-quality applications and solving complex problems.
+- .NET Developer @DEPT
 
 ## Skills
 
